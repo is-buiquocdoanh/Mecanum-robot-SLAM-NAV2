@@ -1,0 +1,1 @@
+/usr/bin/c++ -DVERSION_INFO=\"1.2.4\" -std=c++11 -O3 -DNDEBUG -rdynamic CMakeFiles/sdm_test.dir/sdm_test.cpp.o -o ../sdm_test  ../libydlidar_sdk.a -lpthread -lrt 

@@ -1,0 +1,192 @@
+[
+{
+  "directory": "/home/raspi/ros2_ws/src/YDLidar-SDK-master/build/temp.linux-aarch64-3.10",
+  "command": "/usr/bin/c++  -I/home/raspi/ros2_ws/src/YDLidar-SDK-master/. -I/home/raspi/ros2_ws/src/YDLidar-SDK-master/core -I/home/raspi/ros2_ws/src/YDLidar-SDK-master/src -I/home/raspi/ros2_ws/src/YDLidar-SDK-master -I/home/raspi/ros2_ws/src/YDLidar-SDK-master/build/temp.linux-aarch64-3.10 -I/home/raspi/ros2_ws/src/YDLidar-SDK-master/python -DVERSION_INFO=\\\"1.2.4\\\" -std=c++11 -O3 -DNDEBUG -fPIC -o CMakeFiles/ydlidar_sdk.dir/core/base/timer.cpp.o -c /home/raspi/ros2_ws/src/YDLidar-SDK-master/core/base/timer.cpp",
+  "file": "/home/raspi/ros2_ws/src/YDLidar-SDK-master/core/base/timer.cpp"
+},
+{
+  "directory": "/home/raspi/ros2_ws/src/YDLidar-SDK-master/build/temp.linux-aarch64-3.10",
+  "command": "/usr/bin/c++  -I/home/raspi/ros2_ws/src/YDLidar-SDK-master/. -I/home/raspi/ros2_ws/src/YDLidar-SDK-master/core -I/home/raspi/ros2_ws/src/YDLidar-SDK-master/src -I/home/raspi/ros2_ws/src/YDLidar-SDK-master -I/home/raspi/ros2_ws/src/YDLidar-SDK-master/build/temp.linux-aarch64-3.10 -I/home/raspi/ros2_ws/src/YDLidar-SDK-master/python -DVERSION_INFO=\\\"1.2.4\\\" -std=c++11 -O3 -DNDEBUG -fPIC -o CMakeFiles/ydlidar_sdk.dir/core/common/ydlidar_def.cpp.o -c /home/raspi/ros2_ws/src/YDLidar-SDK-master/core/common/ydlidar_def.cpp",
+  "file": "/home/raspi/ros2_ws/src/YDLidar-SDK-master/core/common/ydlidar_def.cpp"
+},
+{
+  "directory": "/home/raspi/ros2_ws/src/YDLidar-SDK-master/build/temp.linux-aarch64-3.10",
+  "command": "/usr/bin/cc  -I/home/raspi/ros2_ws/src/YDLidar-SDK-master/. -I/home/raspi/ros2_ws/src/YDLidar-SDK-master/core -I/home/raspi/ros2_ws/src/YDLidar-SDK-master/src -I/home/raspi/ros2_ws/src/YDLidar-SDK-master -I/home/raspi/ros2_ws/src/YDLidar-SDK-master/build/temp.linux-aarch64-3.10 -I/home/raspi/ros2_ws/src/YDLidar-SDK-master/python -O3 -DNDEBUG -fPIC -o CMakeFiles/ydlidar_sdk.dir/core/json/cJSON.c.o -c /home/raspi/ros2_ws/src/YDLidar-SDK-master/core/json/cJSON.c",
+  "file": "/home/raspi/ros2_ws/src/YDLidar-SDK-master/core/json/cJSON.c"
+},
+{
+  "directory": "/home/raspi/ros2_ws/src/YDLidar-SDK-master/build/temp.linux-aarch64-3.10",
+  "command": "/usr/bin/c++  -I/home/raspi/ros2_ws/src/YDLidar-SDK-master/. -I/home/raspi/ros2_ws/src/YDLidar-SDK-master/core -I/home/raspi/ros2_ws/src/YDLidar-SDK-master/src -I/home/raspi/ros2_ws/src/YDLidar-SDK-master -I/home/raspi/ros2_ws/src/YDLidar-SDK-master/build/temp.linux-aarch64-3.10 -I/home/raspi/ros2_ws/src/YDLidar-SDK-master/python -DVERSION_INFO=\\\"1.2.4\\\" -std=c++11 -O3 -DNDEBUG -fPIC -o CMakeFiles/ydlidar_sdk.dir/core/network/ActiveSocket.cpp.o -c /home/raspi/ros2_ws/src/YDLidar-SDK-master/core/network/ActiveSocket.cpp",
+  "file": "/home/raspi/ros2_ws/src/YDLidar-SDK-master/core/network/ActiveSocket.cpp"
+},
+{
+  "directory": "/home/raspi/ros2_ws/src/YDLidar-SDK-master/build/temp.linux-aarch64-3.10",
+  "command": "/usr/bin/c++  -I/home/raspi/ros2_ws/src/YDLidar-SDK-master/. -I/home/raspi/ros2_ws/src/YDLidar-SDK-master/core -I/home/raspi/ros2_ws/src/YDLidar-SDK-master/src -I/home/raspi/ros2_ws/src/YDLidar-SDK-master -I/home/raspi/ros2_ws/src/YDLidar-SDK-master/build/temp.linux-aarch64-3.10 -I/home/raspi/ros2_ws/src/YDLidar-SDK-master/python -DVERSION_INFO=\\\"1.2.4\\\" -std=c++11 -O3 -DNDEBUG -fPIC -o CMakeFiles/ydlidar_sdk.dir/core/network/PassiveSocket.cpp.o -c /home/raspi/ros2_ws/src/YDLidar-SDK-master/core/network/PassiveSocket.cpp",
+  "file": "/home/raspi/ros2_ws/src/YDLidar-SDK-master/core/network/PassiveSocket.cpp"
+},
+{
+  "directory": "/home/raspi/ros2_ws/src/YDLidar-SDK-master/build/temp.linux-aarch64-3.10",
+  "command": "/usr/bin/c++  -I/home/raspi/ros2_ws/src/YDLidar-SDK-master/. -I/home/raspi/ros2_ws/src/YDLidar-SDK-master/core -I/home/raspi/ros2_ws/src/YDLidar-SDK-master/src -I/home/raspi/ros2_ws/src/YDLidar-SDK-master -I/home/raspi/ros2_ws/src/YDLidar-SDK-master/build/temp.linux-aarch64-3.10 -I/home/raspi/ros2_ws/src/YDLidar-SDK-master/python -DVERSION_INFO=\\\"1.2.4\\\" -std=c++11 -O3 -DNDEBUG -fPIC -o CMakeFiles/ydlidar_sdk.dir/core/network/SimpleSocket.cpp.o -c /home/raspi/ros2_ws/src/YDLidar-SDK-master/core/network/SimpleSocket.cpp",
+  "file": "/home/raspi/ros2_ws/src/YDLidar-SDK-master/core/network/SimpleSocket.cpp"
+},
+{
+  "directory": "/home/raspi/ros2_ws/src/YDLidar-SDK-master/build/temp.linux-aarch64-3.10",
+  "command": "/usr/bin/c++  -I/home/raspi/ros2_ws/src/YDLidar-SDK-master/. -I/home/raspi/ros2_ws/src/YDLidar-SDK-master/core -I/home/raspi/ros2_ws/src/YDLidar-SDK-master/src -I/home/raspi/ros2_ws/src/YDLidar-SDK-master -I/home/raspi/ros2_ws/src/YDLidar-SDK-master/build/temp.linux-aarch64-3.10 -I/home/raspi/ros2_ws/src/YDLidar-SDK-master/python -DVERSION_INFO=\\\"1.2.4\\\" -std=c++11 -O3 -DNDEBUG -fPIC -o CMakeFiles/ydlidar_sdk.dir/core/serial/serial.cpp.o -c /home/raspi/ros2_ws/src/YDLidar-SDK-master/core/serial/serial.cpp",
+  "file": "/home/raspi/ros2_ws/src/YDLidar-SDK-master/core/serial/serial.cpp"
+},
+{
+  "directory": "/home/raspi/ros2_ws/src/YDLidar-SDK-master/build/temp.linux-aarch64-3.10",
+  "command": "/usr/bin/cc  -I/home/raspi/ros2_ws/src/YDLidar-SDK-master/. -I/home/raspi/ros2_ws/src/YDLidar-SDK-master/core -I/home/raspi/ros2_ws/src/YDLidar-SDK-master/src -I/home/raspi/ros2_ws/src/YDLidar-SDK-master -I/home/raspi/ros2_ws/src/YDLidar-SDK-master/build/temp.linux-aarch64-3.10 -I/home/raspi/ros2_ws/src/YDLidar-SDK-master/python -O3 -DNDEBUG -fPIC -o CMakeFiles/ydlidar_sdk.dir/core/serial/impl/unix/lock.c.o -c /home/raspi/ros2_ws/src/YDLidar-SDK-master/core/serial/impl/unix/lock.c",
+  "file": "/home/raspi/ros2_ws/src/YDLidar-SDK-master/core/serial/impl/unix/lock.c"
+},
+{
+  "directory": "/home/raspi/ros2_ws/src/YDLidar-SDK-master/build/temp.linux-aarch64-3.10",
+  "command": "/usr/bin/c++  -I/home/raspi/ros2_ws/src/YDLidar-SDK-master/. -I/home/raspi/ros2_ws/src/YDLidar-SDK-master/core -I/home/raspi/ros2_ws/src/YDLidar-SDK-master/src -I/home/raspi/ros2_ws/src/YDLidar-SDK-master -I/home/raspi/ros2_ws/src/YDLidar-SDK-master/build/temp.linux-aarch64-3.10 -I/home/raspi/ros2_ws/src/YDLidar-SDK-master/python -DVERSION_INFO=\\\"1.2.4\\\" -std=c++11 -O3 -DNDEBUG -fPIC -o CMakeFiles/ydlidar_sdk.dir/core/serial/impl/unix/list_ports_linux.cpp.o -c /home/raspi/ros2_ws/src/YDLidar-SDK-master/core/serial/impl/unix/list_ports_linux.cpp",
+  "file": "/home/raspi/ros2_ws/src/YDLidar-SDK-master/core/serial/impl/unix/list_ports_linux.cpp"
+},
+{
+  "directory": "/home/raspi/ros2_ws/src/YDLidar-SDK-master/build/temp.linux-aarch64-3.10",
+  "command": "/usr/bin/c++  -I/home/raspi/ros2_ws/src/YDLidar-SDK-master/. -I/home/raspi/ros2_ws/src/YDLidar-SDK-master/core -I/home/raspi/ros2_ws/src/YDLidar-SDK-master/src -I/home/raspi/ros2_ws/src/YDLidar-SDK-master -I/home/raspi/ros2_ws/src/YDLidar-SDK-master/build/temp.linux-aarch64-3.10 -I/home/raspi/ros2_ws/src/YDLidar-SDK-master/python -DVERSION_INFO=\\\"1.2.4\\\" -std=c++11 -O3 -DNDEBUG -fPIC -o CMakeFiles/ydlidar_sdk.dir/core/serial/impl/unix/unix_serial.cpp.o -c /home/raspi/ros2_ws/src/YDLidar-SDK-master/core/serial/impl/unix/unix_serial.cpp",
+  "file": "/home/raspi/ros2_ws/src/YDLidar-SDK-master/core/serial/impl/unix/unix_serial.cpp"
+},
+{
+  "directory": "/home/raspi/ros2_ws/src/YDLidar-SDK-master/build/temp.linux-aarch64-3.10",
+  "command": "/usr/bin/c++  -I/home/raspi/ros2_ws/src/YDLidar-SDK-master/. -I/home/raspi/ros2_ws/src/YDLidar-SDK-master/core -I/home/raspi/ros2_ws/src/YDLidar-SDK-master/src -I/home/raspi/ros2_ws/src/YDLidar-SDK-master -I/home/raspi/ros2_ws/src/YDLidar-SDK-master/build/temp.linux-aarch64-3.10 -I/home/raspi/ros2_ws/src/YDLidar-SDK-master/python -DVERSION_INFO=\\\"1.2.4\\\" -std=c++11 -O3 -DNDEBUG -fPIC -o CMakeFiles/ydlidar_sdk.dir/src/CYdLidar.cpp.o -c /home/raspi/ros2_ws/src/YDLidar-SDK-master/src/CYdLidar.cpp",
+  "file": "/home/raspi/ros2_ws/src/YDLidar-SDK-master/src/CYdLidar.cpp"
+},
+{
+  "directory": "/home/raspi/ros2_ws/src/YDLidar-SDK-master/build/temp.linux-aarch64-3.10",
+  "command": "/usr/bin/c++  -I/home/raspi/ros2_ws/src/YDLidar-SDK-master/. -I/home/raspi/ros2_ws/src/YDLidar-SDK-master/core -I/home/raspi/ros2_ws/src/YDLidar-SDK-master/src -I/home/raspi/ros2_ws/src/YDLidar-SDK-master -I/home/raspi/ros2_ws/src/YDLidar-SDK-master/build/temp.linux-aarch64-3.10 -I/home/raspi/ros2_ws/src/YDLidar-SDK-master/python -DVERSION_INFO=\\\"1.2.4\\\" -std=c++11 -O3 -DNDEBUG -fPIC -o CMakeFiles/ydlidar_sdk.dir/src/DTSLidarDriver.cpp.o -c /home/raspi/ros2_ws/src/YDLidar-SDK-master/src/DTSLidarDriver.cpp",
+  "file": "/home/raspi/ros2_ws/src/YDLidar-SDK-master/src/DTSLidarDriver.cpp"
+},
+{
+  "directory": "/home/raspi/ros2_ws/src/YDLidar-SDK-master/build/temp.linux-aarch64-3.10",
+  "command": "/usr/bin/c++  -I/home/raspi/ros2_ws/src/YDLidar-SDK-master/. -I/home/raspi/ros2_ws/src/YDLidar-SDK-master/core -I/home/raspi/ros2_ws/src/YDLidar-SDK-master/src -I/home/raspi/ros2_ws/src/YDLidar-SDK-master -I/home/raspi/ros2_ws/src/YDLidar-SDK-master/build/temp.linux-aarch64-3.10 -I/home/raspi/ros2_ws/src/YDLidar-SDK-master/python -DVERSION_INFO=\\\"1.2.4\\\" -std=c++11 -O3 -DNDEBUG -fPIC -o CMakeFiles/ydlidar_sdk.dir/src/ETLidarDriver.cpp.o -c /home/raspi/ros2_ws/src/YDLidar-SDK-master/src/ETLidarDriver.cpp",
+  "file": "/home/raspi/ros2_ws/src/YDLidar-SDK-master/src/ETLidarDriver.cpp"
+},
+{
+  "directory": "/home/raspi/ros2_ws/src/YDLidar-SDK-master/build/temp.linux-aarch64-3.10",
+  "command": "/usr/bin/c++  -I/home/raspi/ros2_ws/src/YDLidar-SDK-master/. -I/home/raspi/ros2_ws/src/YDLidar-SDK-master/core -I/home/raspi/ros2_ws/src/YDLidar-SDK-master/src -I/home/raspi/ros2_ws/src/YDLidar-SDK-master -I/home/raspi/ros2_ws/src/YDLidar-SDK-master/build/temp.linux-aarch64-3.10 -I/home/raspi/ros2_ws/src/YDLidar-SDK-master/python -DVERSION_INFO=\\\"1.2.4\\\" -std=c++11 -O3 -DNDEBUG -fPIC -o CMakeFiles/ydlidar_sdk.dir/src/GSLidarDriver.cpp.o -c /home/raspi/ros2_ws/src/YDLidar-SDK-master/src/GSLidarDriver.cpp",
+  "file": "/home/raspi/ros2_ws/src/YDLidar-SDK-master/src/GSLidarDriver.cpp"
+},
+{
+  "directory": "/home/raspi/ros2_ws/src/YDLidar-SDK-master/build/temp.linux-aarch64-3.10",
+  "command": "/usr/bin/c++  -I/home/raspi/ros2_ws/src/YDLidar-SDK-master/. -I/home/raspi/ros2_ws/src/YDLidar-SDK-master/core -I/home/raspi/ros2_ws/src/YDLidar-SDK-master/src -I/home/raspi/ros2_ws/src/YDLidar-SDK-master -I/home/raspi/ros2_ws/src/YDLidar-SDK-master/build/temp.linux-aarch64-3.10 -I/home/raspi/ros2_ws/src/YDLidar-SDK-master/python -DVERSION_INFO=\\\"1.2.4\\\" -std=c++11 -O3 -DNDEBUG -fPIC -o CMakeFiles/ydlidar_sdk.dir/src/SDMLidarDriver.cpp.o -c /home/raspi/ros2_ws/src/YDLidar-SDK-master/src/SDMLidarDriver.cpp",
+  "file": "/home/raspi/ros2_ws/src/YDLidar-SDK-master/src/SDMLidarDriver.cpp"
+},
+{
+  "directory": "/home/raspi/ros2_ws/src/YDLidar-SDK-master/build/temp.linux-aarch64-3.10",
+  "command": "/usr/bin/c++  -I/home/raspi/ros2_ws/src/YDLidar-SDK-master/. -I/home/raspi/ros2_ws/src/YDLidar-SDK-master/core -I/home/raspi/ros2_ws/src/YDLidar-SDK-master/src -I/home/raspi/ros2_ws/src/YDLidar-SDK-master -I/home/raspi/ros2_ws/src/YDLidar-SDK-master/build/temp.linux-aarch64-3.10 -I/home/raspi/ros2_ws/src/YDLidar-SDK-master/python -DVERSION_INFO=\\\"1.2.4\\\" -std=c++11 -O3 -DNDEBUG -fPIC -o CMakeFiles/ydlidar_sdk.dir/src/TiaLidarDriver.cpp.o -c /home/raspi/ros2_ws/src/YDLidar-SDK-master/src/TiaLidarDriver.cpp",
+  "file": "/home/raspi/ros2_ws/src/YDLidar-SDK-master/src/TiaLidarDriver.cpp"
+},
+{
+  "directory": "/home/raspi/ros2_ws/src/YDLidar-SDK-master/build/temp.linux-aarch64-3.10",
+  "command": "/usr/bin/c++  -I/home/raspi/ros2_ws/src/YDLidar-SDK-master/. -I/home/raspi/ros2_ws/src/YDLidar-SDK-master/core -I/home/raspi/ros2_ws/src/YDLidar-SDK-master/src -I/home/raspi/ros2_ws/src/YDLidar-SDK-master -I/home/raspi/ros2_ws/src/YDLidar-SDK-master/build/temp.linux-aarch64-3.10 -I/home/raspi/ros2_ws/src/YDLidar-SDK-master/python -DVERSION_INFO=\\\"1.2.4\\\" -std=c++11 -O3 -DNDEBUG -fPIC -o CMakeFiles/ydlidar_sdk.dir/src/YDlidarDriver.cpp.o -c /home/raspi/ros2_ws/src/YDLidar-SDK-master/src/YDlidarDriver.cpp",
+  "file": "/home/raspi/ros2_ws/src/YDLidar-SDK-master/src/YDlidarDriver.cpp"
+},
+{
+  "directory": "/home/raspi/ros2_ws/src/YDLidar-SDK-master/build/temp.linux-aarch64-3.10",
+  "command": "/usr/bin/c++  -I/home/raspi/ros2_ws/src/YDLidar-SDK-master/. -I/home/raspi/ros2_ws/src/YDLidar-SDK-master/core -I/home/raspi/ros2_ws/src/YDLidar-SDK-master/src -I/home/raspi/ros2_ws/src/YDLidar-SDK-master -I/home/raspi/ros2_ws/src/YDLidar-SDK-master/build/temp.linux-aarch64-3.10 -I/home/raspi/ros2_ws/src/YDLidar-SDK-master/python -DVERSION_INFO=\\\"1.2.4\\\" -std=c++11 -O3 -DNDEBUG -fPIC -o CMakeFiles/ydlidar_sdk.dir/src/ydlidar_sdk.cpp.o -c /home/raspi/ros2_ws/src/YDLidar-SDK-master/src/ydlidar_sdk.cpp",
+  "file": "/home/raspi/ros2_ws/src/YDLidar-SDK-master/src/ydlidar_sdk.cpp"
+},
+{
+  "directory": "/home/raspi/ros2_ws/src/YDLidar-SDK-master/build/temp.linux-aarch64-3.10",
+  "command": "/usr/bin/c++  -I/home/raspi/ros2_ws/src/YDLidar-SDK-master/. -I/home/raspi/ros2_ws/src/YDLidar-SDK-master/core -I/home/raspi/ros2_ws/src/YDLidar-SDK-master/src -I/home/raspi/ros2_ws/src/YDLidar-SDK-master -I/home/raspi/ros2_ws/src/YDLidar-SDK-master/build/temp.linux-aarch64-3.10 -I/home/raspi/ros2_ws/src/YDLidar-SDK-master/python -DVERSION_INFO=\\\"1.2.4\\\" -std=c++11 -O3 -DNDEBUG -fPIC -o CMakeFiles/ydlidar_sdk.dir/src/filters/NoiseFilter.cpp.o -c /home/raspi/ros2_ws/src/YDLidar-SDK-master/src/filters/NoiseFilter.cpp",
+  "file": "/home/raspi/ros2_ws/src/YDLidar-SDK-master/src/filters/NoiseFilter.cpp"
+},
+{
+  "directory": "/home/raspi/ros2_ws/src/YDLidar-SDK-master/build/temp.linux-aarch64-3.10",
+  "command": "/usr/bin/c++  -I/home/raspi/ros2_ws/src/YDLidar-SDK-master/. -I/home/raspi/ros2_ws/src/YDLidar-SDK-master/core -I/home/raspi/ros2_ws/src/YDLidar-SDK-master/src -I/home/raspi/ros2_ws/src/YDLidar-SDK-master -I/home/raspi/ros2_ws/src/YDLidar-SDK-master/build/temp.linux-aarch64-3.10 -I/home/raspi/ros2_ws/src/YDLidar-SDK-master/python -DVERSION_INFO=\\\"1.2.4\\\" -std=c++11 -O3 -DNDEBUG -fPIC -o CMakeFiles/ydlidar_sdk.dir/src/filters/StrongLightFilter.cpp.o -c /home/raspi/ros2_ws/src/YDLidar-SDK-master/src/filters/StrongLightFilter.cpp",
+  "file": "/home/raspi/ros2_ws/src/YDLidar-SDK-master/src/filters/StrongLightFilter.cpp"
+},
+{
+  "directory": "/home/raspi/ros2_ws/src/YDLidar-SDK-master/build/temp.linux-aarch64-3.10/examples",
+  "command": "/usr/bin/c++  -I/home/raspi/ros2_ws/src/YDLidar-SDK-master/. -I/home/raspi/ros2_ws/src/YDLidar-SDK-master/core -I/home/raspi/ros2_ws/src/YDLidar-SDK-master/src -I/home/raspi/ros2_ws/src/YDLidar-SDK-master -I/home/raspi/ros2_ws/src/YDLidar-SDK-master/.. -I/home/raspi/ros2_ws/src/YDLidar-SDK-master/build/temp.linux-aarch64-3.10/examples -I/home/raspi/ros2_ws/src/YDLidar-SDK-master/build/temp.linux-aarch64-3.10 -DVERSION_INFO=\\\"1.2.4\\\" -std=c++11 -O3 -DNDEBUG -fPIC -std=c++11 -o CMakeFiles/et_test.dir/et_test.cpp.o -c /home/raspi/ros2_ws/src/YDLidar-SDK-master/examples/et_test.cpp",
+  "file": "/home/raspi/ros2_ws/src/YDLidar-SDK-master/examples/et_test.cpp"
+},
+{
+  "directory": "/home/raspi/ros2_ws/src/YDLidar-SDK-master/build/temp.linux-aarch64-3.10/examples",
+  "command": "/usr/bin/c++  -I/home/raspi/ros2_ws/src/YDLidar-SDK-master/. -I/home/raspi/ros2_ws/src/YDLidar-SDK-master/core -I/home/raspi/ros2_ws/src/YDLidar-SDK-master/src -I/home/raspi/ros2_ws/src/YDLidar-SDK-master -I/home/raspi/ros2_ws/src/YDLidar-SDK-master/.. -I/home/raspi/ros2_ws/src/YDLidar-SDK-master/build/temp.linux-aarch64-3.10/examples -I/home/raspi/ros2_ws/src/YDLidar-SDK-master/build/temp.linux-aarch64-3.10 -DVERSION_INFO=\\\"1.2.4\\\" -std=c++11 -O3 -DNDEBUG -fPIC -std=c++11 -o CMakeFiles/gs_ota.dir/gs_ota.cpp.o -c /home/raspi/ros2_ws/src/YDLidar-SDK-master/examples/gs_ota.cpp",
+  "file": "/home/raspi/ros2_ws/src/YDLidar-SDK-master/examples/gs_ota.cpp"
+},
+{
+  "directory": "/home/raspi/ros2_ws/src/YDLidar-SDK-master/build/temp.linux-aarch64-3.10/examples",
+  "command": "/usr/bin/c++  -I/home/raspi/ros2_ws/src/YDLidar-SDK-master/. -I/home/raspi/ros2_ws/src/YDLidar-SDK-master/core -I/home/raspi/ros2_ws/src/YDLidar-SDK-master/src -I/home/raspi/ros2_ws/src/YDLidar-SDK-master -I/home/raspi/ros2_ws/src/YDLidar-SDK-master/.. -I/home/raspi/ros2_ws/src/YDLidar-SDK-master/build/temp.linux-aarch64-3.10/examples -I/home/raspi/ros2_ws/src/YDLidar-SDK-master/build/temp.linux-aarch64-3.10 -DVERSION_INFO=\\\"1.2.4\\\" -std=c++11 -O3 -DNDEBUG -fPIC -std=c++11 -o CMakeFiles/gs_restart.dir/gs_restart.cpp.o -c /home/raspi/ros2_ws/src/YDLidar-SDK-master/examples/gs_restart.cpp",
+  "file": "/home/raspi/ros2_ws/src/YDLidar-SDK-master/examples/gs_restart.cpp"
+},
+{
+  "directory": "/home/raspi/ros2_ws/src/YDLidar-SDK-master/build/temp.linux-aarch64-3.10/examples",
+  "command": "/usr/bin/c++  -I/home/raspi/ros2_ws/src/YDLidar-SDK-master/. -I/home/raspi/ros2_ws/src/YDLidar-SDK-master/core -I/home/raspi/ros2_ws/src/YDLidar-SDK-master/src -I/home/raspi/ros2_ws/src/YDLidar-SDK-master -I/home/raspi/ros2_ws/src/YDLidar-SDK-master/.. -I/home/raspi/ros2_ws/src/YDLidar-SDK-master/build/temp.linux-aarch64-3.10/examples -I/home/raspi/ros2_ws/src/YDLidar-SDK-master/build/temp.linux-aarch64-3.10 -DVERSION_INFO=\\\"1.2.4\\\" -std=c++11 -O3 -DNDEBUG -fPIC -std=c++11 -o CMakeFiles/gs_test.dir/gs_test.cpp.o -c /home/raspi/ros2_ws/src/YDLidar-SDK-master/examples/gs_test.cpp",
+  "file": "/home/raspi/ros2_ws/src/YDLidar-SDK-master/examples/gs_test.cpp"
+},
+{
+  "directory": "/home/raspi/ros2_ws/src/YDLidar-SDK-master/build/temp.linux-aarch64-3.10/examples",
+  "command": "/usr/bin/c++  -I/home/raspi/ros2_ws/src/YDLidar-SDK-master/. -I/home/raspi/ros2_ws/src/YDLidar-SDK-master/core -I/home/raspi/ros2_ws/src/YDLidar-SDK-master/src -I/home/raspi/ros2_ws/src/YDLidar-SDK-master -I/home/raspi/ros2_ws/src/YDLidar-SDK-master/.. -I/home/raspi/ros2_ws/src/YDLidar-SDK-master/build/temp.linux-aarch64-3.10/examples -I/home/raspi/ros2_ws/src/YDLidar-SDK-master/build/temp.linux-aarch64-3.10 -DVERSION_INFO=\\\"1.2.4\\\" -std=c++11 -O3 -DNDEBUG -fPIC -std=c++11 -o CMakeFiles/gs_test2.dir/gs_test2.cpp.o -c /home/raspi/ros2_ws/src/YDLidar-SDK-master/examples/gs_test2.cpp",
+  "file": "/home/raspi/ros2_ws/src/YDLidar-SDK-master/examples/gs_test2.cpp"
+},
+{
+  "directory": "/home/raspi/ros2_ws/src/YDLidar-SDK-master/build/temp.linux-aarch64-3.10/examples",
+  "command": "/usr/bin/c++  -I/home/raspi/ros2_ws/src/YDLidar-SDK-master/. -I/home/raspi/ros2_ws/src/YDLidar-SDK-master/core -I/home/raspi/ros2_ws/src/YDLidar-SDK-master/src -I/home/raspi/ros2_ws/src/YDLidar-SDK-master -I/home/raspi/ros2_ws/src/YDLidar-SDK-master/.. -I/home/raspi/ros2_ws/src/YDLidar-SDK-master/build/temp.linux-aarch64-3.10/examples -I/home/raspi/ros2_ws/src/YDLidar-SDK-master/build/temp.linux-aarch64-3.10 -DVERSION_INFO=\\\"1.2.4\\\" -std=c++11 -O3 -DNDEBUG -fPIC -std=c++11 -o CMakeFiles/scl_test.dir/scl_test.cpp.o -c /home/raspi/ros2_ws/src/YDLidar-SDK-master/examples/scl_test.cpp",
+  "file": "/home/raspi/ros2_ws/src/YDLidar-SDK-master/examples/scl_test.cpp"
+},
+{
+  "directory": "/home/raspi/ros2_ws/src/YDLidar-SDK-master/build/temp.linux-aarch64-3.10/examples",
+  "command": "/usr/bin/c++  -I/home/raspi/ros2_ws/src/YDLidar-SDK-master/. -I/home/raspi/ros2_ws/src/YDLidar-SDK-master/core -I/home/raspi/ros2_ws/src/YDLidar-SDK-master/src -I/home/raspi/ros2_ws/src/YDLidar-SDK-master -I/home/raspi/ros2_ws/src/YDLidar-SDK-master/.. -I/home/raspi/ros2_ws/src/YDLidar-SDK-master/build/temp.linux-aarch64-3.10/examples -I/home/raspi/ros2_ws/src/YDLidar-SDK-master/build/temp.linux-aarch64-3.10 -DVERSION_INFO=\\\"1.2.4\\\" -std=c++11 -O3 -DNDEBUG -fPIC -std=c++11 -o CMakeFiles/sdm18_test.dir/sdm18_test.cpp.o -c /home/raspi/ros2_ws/src/YDLidar-SDK-master/examples/sdm18_test.cpp",
+  "file": "/home/raspi/ros2_ws/src/YDLidar-SDK-master/examples/sdm18_test.cpp"
+},
+{
+  "directory": "/home/raspi/ros2_ws/src/YDLidar-SDK-master/build/temp.linux-aarch64-3.10/examples",
+  "command": "/usr/bin/c++  -I/home/raspi/ros2_ws/src/YDLidar-SDK-master/. -I/home/raspi/ros2_ws/src/YDLidar-SDK-master/core -I/home/raspi/ros2_ws/src/YDLidar-SDK-master/src -I/home/raspi/ros2_ws/src/YDLidar-SDK-master -I/home/raspi/ros2_ws/src/YDLidar-SDK-master/.. -I/home/raspi/ros2_ws/src/YDLidar-SDK-master/build/temp.linux-aarch64-3.10/examples -I/home/raspi/ros2_ws/src/YDLidar-SDK-master/build/temp.linux-aarch64-3.10 -DVERSION_INFO=\\\"1.2.4\\\" -std=c++11 -O3 -DNDEBUG -fPIC -std=c++11 -o CMakeFiles/sdm_test.dir/sdm_test.cpp.o -c /home/raspi/ros2_ws/src/YDLidar-SDK-master/examples/sdm_test.cpp",
+  "file": "/home/raspi/ros2_ws/src/YDLidar-SDK-master/examples/sdm_test.cpp"
+},
+{
+  "directory": "/home/raspi/ros2_ws/src/YDLidar-SDK-master/build/temp.linux-aarch64-3.10/examples",
+  "command": "/usr/bin/c++  -I/home/raspi/ros2_ws/src/YDLidar-SDK-master/. -I/home/raspi/ros2_ws/src/YDLidar-SDK-master/core -I/home/raspi/ros2_ws/src/YDLidar-SDK-master/src -I/home/raspi/ros2_ws/src/YDLidar-SDK-master -I/home/raspi/ros2_ws/src/YDLidar-SDK-master/.. -I/home/raspi/ros2_ws/src/YDLidar-SDK-master/build/temp.linux-aarch64-3.10/examples -I/home/raspi/ros2_ws/src/YDLidar-SDK-master/build/temp.linux-aarch64-3.10 -DVERSION_INFO=\\\"1.2.4\\\" -std=c++11 -O3 -DNDEBUG -fPIC -std=c++11 -o CMakeFiles/tea_test.dir/tea_test.cpp.o -c /home/raspi/ros2_ws/src/YDLidar-SDK-master/examples/tea_test.cpp",
+  "file": "/home/raspi/ros2_ws/src/YDLidar-SDK-master/examples/tea_test.cpp"
+},
+{
+  "directory": "/home/raspi/ros2_ws/src/YDLidar-SDK-master/build/temp.linux-aarch64-3.10/examples",
+  "command": "/usr/bin/c++  -I/home/raspi/ros2_ws/src/YDLidar-SDK-master/. -I/home/raspi/ros2_ws/src/YDLidar-SDK-master/core -I/home/raspi/ros2_ws/src/YDLidar-SDK-master/src -I/home/raspi/ros2_ws/src/YDLidar-SDK-master -I/home/raspi/ros2_ws/src/YDLidar-SDK-master/.. -I/home/raspi/ros2_ws/src/YDLidar-SDK-master/build/temp.linux-aarch64-3.10/examples -I/home/raspi/ros2_ws/src/YDLidar-SDK-master/build/temp.linux-aarch64-3.10 -DVERSION_INFO=\\\"1.2.4\\\" -std=c++11 -O3 -DNDEBUG -fPIC -std=c++11 -o CMakeFiles/tia_test.dir/tia_test.cpp.o -c /home/raspi/ros2_ws/src/YDLidar-SDK-master/examples/tia_test.cpp",
+  "file": "/home/raspi/ros2_ws/src/YDLidar-SDK-master/examples/tia_test.cpp"
+},
+{
+  "directory": "/home/raspi/ros2_ws/src/YDLidar-SDK-master/build/temp.linux-aarch64-3.10/examples",
+  "command": "/usr/bin/c++  -I/home/raspi/ros2_ws/src/YDLidar-SDK-master/. -I/home/raspi/ros2_ws/src/YDLidar-SDK-master/core -I/home/raspi/ros2_ws/src/YDLidar-SDK-master/src -I/home/raspi/ros2_ws/src/YDLidar-SDK-master -I/home/raspi/ros2_ws/src/YDLidar-SDK-master/.. -I/home/raspi/ros2_ws/src/YDLidar-SDK-master/build/temp.linux-aarch64-3.10/examples -I/home/raspi/ros2_ws/src/YDLidar-SDK-master/build/temp.linux-aarch64-3.10 -DVERSION_INFO=\\\"1.2.4\\\" -std=c++11 -O3 -DNDEBUG -fPIC -std=c++11 -o CMakeFiles/tmini-sh_test.dir/tmini-sh_test.cpp.o -c /home/raspi/ros2_ws/src/YDLidar-SDK-master/examples/tmini-sh_test.cpp",
+  "file": "/home/raspi/ros2_ws/src/YDLidar-SDK-master/examples/tmini-sh_test.cpp"
+},
+{
+  "directory": "/home/raspi/ros2_ws/src/YDLidar-SDK-master/build/temp.linux-aarch64-3.10/examples",
+  "command": "/usr/bin/c++  -I/home/raspi/ros2_ws/src/YDLidar-SDK-master/. -I/home/raspi/ros2_ws/src/YDLidar-SDK-master/core -I/home/raspi/ros2_ws/src/YDLidar-SDK-master/src -I/home/raspi/ros2_ws/src/YDLidar-SDK-master -I/home/raspi/ros2_ws/src/YDLidar-SDK-master/.. -I/home/raspi/ros2_ws/src/YDLidar-SDK-master/build/temp.linux-aarch64-3.10/examples -I/home/raspi/ros2_ws/src/YDLidar-SDK-master/build/temp.linux-aarch64-3.10 -DVERSION_INFO=\\\"1.2.4\\\" -std=c++11 -O3 -DNDEBUG -fPIC -std=c++11 -o CMakeFiles/tmini_test.dir/tmini_test.cpp.o -c /home/raspi/ros2_ws/src/YDLidar-SDK-master/examples/tmini_test.cpp",
+  "file": "/home/raspi/ros2_ws/src/YDLidar-SDK-master/examples/tmini_test.cpp"
+},
+{
+  "directory": "/home/raspi/ros2_ws/src/YDLidar-SDK-master/build/temp.linux-aarch64-3.10/examples",
+  "command": "/usr/bin/c++  -I/home/raspi/ros2_ws/src/YDLidar-SDK-master/. -I/home/raspi/ros2_ws/src/YDLidar-SDK-master/core -I/home/raspi/ros2_ws/src/YDLidar-SDK-master/src -I/home/raspi/ros2_ws/src/YDLidar-SDK-master -I/home/raspi/ros2_ws/src/YDLidar-SDK-master/.. -I/home/raspi/ros2_ws/src/YDLidar-SDK-master/build/temp.linux-aarch64-3.10/examples -I/home/raspi/ros2_ws/src/YDLidar-SDK-master/build/temp.linux-aarch64-3.10 -DVERSION_INFO=\\\"1.2.4\\\" -std=c++11 -O3 -DNDEBUG -fPIC -std=c++11 -o CMakeFiles/tof_test.dir/tof_test.cpp.o -c /home/raspi/ros2_ws/src/YDLidar-SDK-master/examples/tof_test.cpp",
+  "file": "/home/raspi/ros2_ws/src/YDLidar-SDK-master/examples/tof_test.cpp"
+},
+{
+  "directory": "/home/raspi/ros2_ws/src/YDLidar-SDK-master/build/temp.linux-aarch64-3.10/examples",
+  "command": "/usr/bin/c++  -I/home/raspi/ros2_ws/src/YDLidar-SDK-master/. -I/home/raspi/ros2_ws/src/YDLidar-SDK-master/core -I/home/raspi/ros2_ws/src/YDLidar-SDK-master/src -I/home/raspi/ros2_ws/src/YDLidar-SDK-master -I/home/raspi/ros2_ws/src/YDLidar-SDK-master/.. -I/home/raspi/ros2_ws/src/YDLidar-SDK-master/build/temp.linux-aarch64-3.10/examples -I/home/raspi/ros2_ws/src/YDLidar-SDK-master/build/temp.linux-aarch64-3.10 -DVERSION_INFO=\\\"1.2.4\\\" -std=c++11 -O3 -DNDEBUG -fPIC -std=c++11 -o CMakeFiles/tri_and_gs_test.dir/tri_and_gs_test.cpp.o -c /home/raspi/ros2_ws/src/YDLidar-SDK-master/examples/tri_and_gs_test.cpp",
+  "file": "/home/raspi/ros2_ws/src/YDLidar-SDK-master/examples/tri_and_gs_test.cpp"
+},
+{
+  "directory": "/home/raspi/ros2_ws/src/YDLidar-SDK-master/build/temp.linux-aarch64-3.10/examples",
+  "command": "/usr/bin/c++  -I/home/raspi/ros2_ws/src/YDLidar-SDK-master/. -I/home/raspi/ros2_ws/src/YDLidar-SDK-master/core -I/home/raspi/ros2_ws/src/YDLidar-SDK-master/src -I/home/raspi/ros2_ws/src/YDLidar-SDK-master -I/home/raspi/ros2_ws/src/YDLidar-SDK-master/.. -I/home/raspi/ros2_ws/src/YDLidar-SDK-master/build/temp.linux-aarch64-3.10/examples -I/home/raspi/ros2_ws/src/YDLidar-SDK-master/build/temp.linux-aarch64-3.10 -DVERSION_INFO=\\\"1.2.4\\\" -std=c++11 -O3 -DNDEBUG -fPIC -std=c++11 -o CMakeFiles/tri_restart.dir/tri_restart.cpp.o -c /home/raspi/ros2_ws/src/YDLidar-SDK-master/examples/tri_restart.cpp",
+  "file": "/home/raspi/ros2_ws/src/YDLidar-SDK-master/examples/tri_restart.cpp"
+},
+{
+  "directory": "/home/raspi/ros2_ws/src/YDLidar-SDK-master/build/temp.linux-aarch64-3.10/examples",
+  "command": "/usr/bin/c++  -I/home/raspi/ros2_ws/src/YDLidar-SDK-master/. -I/home/raspi/ros2_ws/src/YDLidar-SDK-master/core -I/home/raspi/ros2_ws/src/YDLidar-SDK-master/src -I/home/raspi/ros2_ws/src/YDLidar-SDK-master -I/home/raspi/ros2_ws/src/YDLidar-SDK-master/.. -I/home/raspi/ros2_ws/src/YDLidar-SDK-master/build/temp.linux-aarch64-3.10/examples -I/home/raspi/ros2_ws/src/YDLidar-SDK-master/build/temp.linux-aarch64-3.10 -DVERSION_INFO=\\\"1.2.4\\\" -std=c++11 -O3 -DNDEBUG -fPIC -std=c++11 -o CMakeFiles/tri_test.dir/tri_test.cpp.o -c /home/raspi/ros2_ws/src/YDLidar-SDK-master/examples/tri_test.cpp",
+  "file": "/home/raspi/ros2_ws/src/YDLidar-SDK-master/examples/tri_test.cpp"
+},
+{
+  "directory": "/home/raspi/ros2_ws/src/YDLidar-SDK-master/build/temp.linux-aarch64-3.10/examples",
+  "command": "/usr/bin/cc  -I/home/raspi/ros2_ws/src/YDLidar-SDK-master/. -I/home/raspi/ros2_ws/src/YDLidar-SDK-master/core -I/home/raspi/ros2_ws/src/YDLidar-SDK-master/src -I/home/raspi/ros2_ws/src/YDLidar-SDK-master -I/home/raspi/ros2_ws/src/YDLidar-SDK-master/.. -I/home/raspi/ros2_ws/src/YDLidar-SDK-master/build/temp.linux-aarch64-3.10/examples -I/home/raspi/ros2_ws/src/YDLidar-SDK-master/build/temp.linux-aarch64-3.10 -O3 -DNDEBUG -fPIC -std=c++11 -o CMakeFiles/lidar_c_api_test.dir/lidar_c_api_test.c.o -c /home/raspi/ros2_ws/src/YDLidar-SDK-master/examples/lidar_c_api_test.c",
+  "file": "/home/raspi/ros2_ws/src/YDLidar-SDK-master/examples/lidar_c_api_test.c"
+},
+{
+  "directory": "/home/raspi/ros2_ws/src/YDLidar-SDK-master/build/temp.linux-aarch64-3.10/python",
+  "command": "/usr/bin/c++ -D_ydlidar_EXPORTS -I/home/raspi/ros2_ws/src/YDLidar-SDK-master/. -I/home/raspi/ros2_ws/src/YDLidar-SDK-master/core -I/home/raspi/ros2_ws/src/YDLidar-SDK-master/src -I/home/raspi/ros2_ws/src/YDLidar-SDK-master -I/home/raspi/ros2_ws/src/YDLidar-SDK-master/build/temp.linux-aarch64-3.10 -I/home/raspi/ros2_ws/src/YDLidar-SDK-master/python -I/home/raspi/ros2_ws/src/YDLidar-SDK-master/.. -I/home/raspi/ros2_ws/src/YDLidar-SDK-master/build/temp.linux-aarch64-3.10/python -I/usr/include/python3.10 -DVERSION_INFO=\\\"1.2.4\\\" -std=c++11 -std=c++11 -O3 -DNDEBUG -fPIC   -std=c++11 -fPIC -o CMakeFiles/_ydlidar.dir/CMakeFiles/_ydlidar.dir/ydlidar_sdkPYTHON_wrap.cxx.o -c /home/raspi/ros2_ws/src/YDLidar-SDK-master/build/temp.linux-aarch64-3.10/python/CMakeFiles/_ydlidar.dir/ydlidar_sdkPYTHON_wrap.cxx",
+  "file": "/home/raspi/ros2_ws/src/YDLidar-SDK-master/build/temp.linux-aarch64-3.10/python/CMakeFiles/_ydlidar.dir/ydlidar_sdkPYTHON_wrap.cxx"
+}
+]

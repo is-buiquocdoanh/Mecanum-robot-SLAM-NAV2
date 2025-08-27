@@ -1,0 +1,42 @@
+{
+    "python.autoComplete.extraPaths": [
+        "/run/user/1000/gvfs/smb-share",
+        "server=192.168.1.24,share=catkin_agv/ros2_ws/install/teleop_twist_keyboard/lib/python3.10/site-packages",
+        "/run/user/1000/gvfs/smb-share",
+        "server=192.168.1.24,share=catkin_agv/ros2_ws/install/sti_module/lib/python3.10/site-packages",
+        "/run/user/1000/gvfs/smb-share",
+        "server=192.168.1.24,share=catkin_agv/ros2_ws/install/ros_canBus/lib/python3.10/site-packages",
+        "/run/user/1000/gvfs/smb-share",
+        "server=192.168.1.24,share=catkin_agv/ros2_ws/install/micro_ros_msgs/local/lib/python3.10/dist-packages",
+        "/run/user/1000/gvfs/smb-share",
+        "server=192.168.1.24,share=catkin_agv/ros2_ws/install/message_pkg/local/lib/python3.10/dist-packages",
+        "/run/user/1000/gvfs/smb-share",
+        "server=192.168.1.24,share=catkin_agv/ros2_ws/install/launch_pkg/lib/python3.10/site-packages",
+        "/run/user/1000/gvfs/smb-share",
+        "server=192.168.1.24,share=catkin_agv/ros2_ws/install/base_pkg/lib/python3.10/site-packages",
+        "/run/user/1000/gvfs/smb-share",
+        "server=192.168.1.24,share=catkin_agv/ros2_ws/install/app_ros/lib/python3.10/site-packages",
+        "/home/hoang/catkin_ws/devel/lib/python3/dist-packages",
+        "/opt/ros/noetic/lib/python3/dist-packages"
+    ],
+    "python.analysis.extraPaths": [
+        "/run/user/1000/gvfs/smb-share",
+        "server=192.168.1.24,share=catkin_agv/ros2_ws/install/teleop_twist_keyboard/lib/python3.10/site-packages",
+        "/run/user/1000/gvfs/smb-share",
+        "server=192.168.1.24,share=catkin_agv/ros2_ws/install/sti_module/lib/python3.10/site-packages",
+        "/run/user/1000/gvfs/smb-share",
+        "server=192.168.1.24,share=catkin_agv/ros2_ws/install/ros_canBus/lib/python3.10/site-packages",
+        "/run/user/1000/gvfs/smb-share",
+        "server=192.168.1.24,share=catkin_agv/ros2_ws/install/micro_ros_msgs/local/lib/python3.10/dist-packages",
+        "/run/user/1000/gvfs/smb-share",
+        "server=192.168.1.24,share=catkin_agv/ros2_ws/install/message_pkg/local/lib/python3.10/dist-packages",
+        "/run/user/1000/gvfs/smb-share",
+        "server=192.168.1.24,share=catkin_agv/ros2_ws/install/launch_pkg/lib/python3.10/site-packages",
+        "/run/user/1000/gvfs/smb-share",
+        "server=192.168.1.24,share=catkin_agv/ros2_ws/install/base_pkg/lib/python3.10/site-packages",
+        "/run/user/1000/gvfs/smb-share",
+        "server=192.168.1.24,share=catkin_agv/ros2_ws/install/app_ros/lib/python3.10/site-packages",
+        "/home/hoang/catkin_ws/devel/lib/python3/dist-packages",
+        "/opt/ros/noetic/lib/python3/dist-packages"
+    ]
+}

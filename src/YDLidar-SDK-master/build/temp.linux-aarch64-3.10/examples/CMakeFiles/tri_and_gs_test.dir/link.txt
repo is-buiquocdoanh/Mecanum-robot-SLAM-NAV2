@@ -1,0 +1,1 @@
+/usr/bin/c++ -DVERSION_INFO=\"1.2.4\" -std=c++11 -O3 -DNDEBUG -rdynamic CMakeFiles/tri_and_gs_test.dir/tri_and_gs_test.cpp.o -o ../tri_and_gs_test  ../libydlidar_sdk.a -lpthread -lrt 

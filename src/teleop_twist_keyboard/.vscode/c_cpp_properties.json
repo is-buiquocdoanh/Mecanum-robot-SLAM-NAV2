@@ -1,0 +1,61 @@
+{
+  "configurations": [
+    {
+      "browse": {
+        "databaseFilename": "${default}",
+        "limitSymbolsToIncludedHeaders": false
+      },
+      "includePath": [
+        "/home/hoang/catkin_ws/devel/include/**",
+        "/opt/ros/noetic/include/**",
+        "/home/hoang/catkin_ws/src/ros_controllers-noetic-devel/ackermann_steering_controller/include/**",
+        "/home/hoang/catkin_ws/src/depthimage_to_laserscan-melodic-devel/include/**",
+        "/home/hoang/catkin_ws/src/ros_controllers-noetic-devel/diff_drive_controller/include/**",
+        "/home/hoang/catkin_ws/src/ros_controllers-noetic-devel/effort_controllers/include/**",
+        "/home/hoang/catkin_ws/src/ros_controllers-noetic-devel/force_torque_sensor_controller/include/**",
+        "/home/hoang/catkin_ws/src/ros_controllers-noetic-devel/forward_command_controller/include/**",
+        "/home/hoang/catkin_ws/src/ros_controllers-noetic-devel/four_wheel_steering_controller/include/**",
+        "/home/hoang/catkin_ws/src/ros_controllers-noetic-devel/gripper_action_controller/include/**",
+        "/home/hoang/catkin_ws/src/ros_controllers-noetic-devel/imu_sensor_controller/include/**",
+        "/home/hoang/catkin_ws/src/ros_controllers-noetic-devel/joint_state_controller/include/**",
+        "/home/hoang/catkin_ws/src/ros_controllers-noetic-devel/joint_trajectory_controller/include/**",
+        "/home/hoang/catkin_ws/src/laser_filters/include/**",
+        "/home/hoang/catkin_ws/src/scan_tools/laser_ortho_projector/include/**",
+        "/home/hoang/catkin_ws/src/scan_tools/laser_scan_matcher/include/**",
+        "/home/hoang/catkin_ws/src/scan_tools/laser_scan_sparsifier/include/**",
+        "/home/hoang/catkin_ws/src/scan_tools/laser_scan_splitter/include/**",
+        "/home/hoang/catkin_ws/src/laser_sim/include/**",
+        "/home/hoang/catkin_ws/src/librealsense-master/include/**",
+        "/home/hoang/catkin_ws/src/LMS1xx-noetic/include/**",
+        "/home/hoang/catkin_ws/src/my_controller/include/**",
+        "/home/hoang/catkin_ws/src/navigation_reflector/include/**",
+        "/home/hoang/catkin_ws/src/scan_tools/ncd_parser/include/**",
+        "/home/hoang/catkin_ws/src/pf_lidar_ros_driver-main/src/pf_driver/include/**",
+        "/home/hoang/catkin_ws/src/pid/include/**",
+        "/home/hoang/catkin_ws/src/scan_tools/polar_scan_matcher/include/**",
+        "/home/hoang/catkin_ws/src/ros_controllers-noetic-devel/position_controllers/include/**",
+        "/home/hoang/catkin_ws/src/ps3joy/include/**",
+        "/home/hoang/catkin_ws/src/realsense-ros-ros1-legacy/realsense2_camera/include/**",
+        "/home/hoang/catkin_ws/src/rf2o_laser_odometry/include/**",
+        "/home/hoang/catkin_ws/src/ros_canBus/include/**",
+        "/home/hoang/catkin_ws/src/scan_tools/scan_to_cloud_converter/include/**",
+        "/home/hoang/catkin_ws/src/sick_scan-master/include/**",
+        "/home/hoang/catkin_ws/src/sick_scan_xd-master/include/**",
+        "/home/hoang/catkin_ws/src/sim_robot/include/**",
+        "/home/hoang/catkin_ws/src/ros_controllers-noetic-devel/swerve_steering_controller/include/**",
+        "/home/hoang/catkin_ws/src/testPubSub/include/**",
+        "/home/hoang/catkin_ws/src/turtlebot3_simulations/turtlebot3_fake/include/**",
+        "/home/hoang/catkin_ws/src/turtlebot3_simulations/turtlebot3_gazebo/include/**",
+        "/home/hoang/catkin_ws/src/ros_controllers-noetic-devel/velocity_controllers/include/**",
+        "/home/hoang/catkin_ws/src/joystick_drivers-main/wiimote/include/**",
+        "/usr/include/**"
+      ],
+      "name": "ROS",
+      "intelliSenseMode": "gcc-x64",
+      "compilerPath": "/usr/bin/gcc",
+      "cStandard": "gnu11",
+      "cppStandard": "c++14"
+    }
+  ],
+  "version": 4
+}

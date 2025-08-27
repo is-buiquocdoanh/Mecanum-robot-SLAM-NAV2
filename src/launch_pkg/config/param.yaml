@@ -1,0 +1,85 @@
+kickoff:
+  ros__parameters:    
+    path_checkPort:       /home/stivietnam/ros2_ws/src/launch_pkg/launch/checkPhysical.launch.py
+    path_nuc:             /home/stivietnam/ros2_ws/src/launch_pkg/launch/nucInfo.launch.py       
+    path_reconnect:       /home/stivietnam/ros2_ws/src/launch_pkg/launch/watchdog.launch.py   
+    # path_rtc:             /home/stivietnam/ros2_ws/src/ros_canBus/launch/RTC_board.launch.py
+    path_rtc:             /home/stivietnam/ros2_ws/src/ros_canBus/launch/RTC_board_vs2.launch.py
+    path_convertCAN:      /home/stivietnam/ros2_ws/src/ros_canBus/launch/convertCAN_ROS.launch.py
+    path_kinematic:       /home/stivietnam/ros2_ws/src/base_pkg/launch/kinematic.launch.py   
+    path_magline:         /home/stivietnam/ros2_ws/src/sti_module/launch/stiMagline.launch.py   
+    path_rfid:            /home/stivietnam/ros2_ws/src/sti_module/launch/stiRFID.launch.py   
+    # path_nucInfo:         /home/stivietnam/ros2_ws/src/sti_module/launch/nucInfo.launch.py  
+    path_goalControl:     /home/stivietnam/ros2_ws/src/sti_module/launch/goalControl.launch.py    
+    path_control:         /home/stivietnam/ros2_ws/src/sti_control/launch/stiControl.launch.py  
+    path_client:          /home/stivietnam/ros2_ws/src/sti_control/launch/stiClient.launch.py
+    path_debug:           /home/stivietnam/ros2_ws/src/sti_control/launch/stiDebug.launch.py      
+
+nuc_info:
+  ros__parameters:
+    name_card: 'wlo1'
+    name_eth: 'enp86s0'
+    address_traffic: '192.168.1.35'
+
+check_physical:
+  ros__parameters:
+    port_rtc: 'stibase_rtc'
+    port_magline: 'stibase_magline'
+    port_rfid: 'stibase_rfid'
+
+serial_ros_bridge_node:
+  ros__parameters:
+    serial_port: 'stibase_rtc'
+    baudrate: 115200
+
+convert_canRos:
+  ros__parameters:
+    ID_RTC: 1
+    ID_MC: 2
+    ID_HC: 3
+    ID_MAIN: 4
+    ID_CONVEYOR:  5
+
+sti_magneticLine:
+  ros__parameters:
+    baudrate: 19200
+    id_magline_front: 1
+    id_magline_behind: 2
+    port_magLine: 'stibase_magline'
+
+sti_rfid:
+  ros__parameters:
+    baudrate: 19200
+    id_rfid: 3
+    port_rfid: 'stibase_rfid'
+
+kinematic:
+  ros__parameters:
+    angular_max: 0.4
+    distanceBetwentWheels: 0.532
+    frame_id: 'frame_robot1'
+    isRevert1: 0
+    isRevert2: 1
+    linear_max: 1.0
+    max_rpm: 2800
+    topicControl_driverAll: mc_request
+    topicControl_vel: cmd_vel
+    topicGet_vel: raw_vel
+    topicRespond_driverAll: mc_info
+    transmission_ratio: 30
+    wheel_circumference: 0.47036
+
+sti_control:
+  ros__parameters:
+    rate: 30
+    enb_debug: 1
+
+stiClient:
+  ros__parameters:
+    ip_server: '192.168.1.2'
+    name_card: 'wlo1'
+    port_server: 8080
+    topic_NNcmdRequest: 'NN_cmdRequest'
+    topic_NNinfoRequest: 'NN_infoRequest'
+    topic_NNinfoRespond: 'NN_infoRespond'
+

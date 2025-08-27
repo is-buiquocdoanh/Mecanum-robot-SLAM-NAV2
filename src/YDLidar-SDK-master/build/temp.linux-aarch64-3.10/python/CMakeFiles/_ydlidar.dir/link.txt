@@ -1,0 +1,1 @@
+/usr/bin/c++ -fPIC -DVERSION_INFO=\"1.2.4\" -std=c++11 -std=c++11 -O3 -DNDEBUG -shared  -o ../../lib.linux-aarch64-3.10/_ydlidar.so CMakeFiles/_ydlidar.dir/CMakeFiles/_ydlidar.dir/ydlidar_sdkPYTHON_wrap.cxx.o  -lpython3.10 ../libydlidar_sdk.a -lpthread -lrt 

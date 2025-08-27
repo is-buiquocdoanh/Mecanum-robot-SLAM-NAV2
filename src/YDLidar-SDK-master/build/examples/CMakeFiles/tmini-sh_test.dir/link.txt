@@ -1,0 +1,1 @@
+/usr/bin/c++  -std=c++11 -rdynamic CMakeFiles/tmini-sh_test.dir/tmini-sh_test.cpp.o -o ../tmini-sh_test  ../libydlidar_sdk.a -lpthread -lrt 

@@ -1,0 +1,9 @@
+int32 id
+int8 byte0
+int8 byte1
+int8 byte2
+int8 byte3
+int8 byte4
+int8 byte5
+int8 byte6
+int8 byte7

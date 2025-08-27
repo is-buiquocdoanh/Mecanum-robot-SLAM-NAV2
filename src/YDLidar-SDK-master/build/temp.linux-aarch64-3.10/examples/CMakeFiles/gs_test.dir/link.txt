@@ -1,0 +1,1 @@
+/usr/bin/c++ -DVERSION_INFO=\"1.2.4\" -std=c++11 -O3 -DNDEBUG -rdynamic CMakeFiles/gs_test.dir/gs_test.cpp.o -o ../gs_test  ../libydlidar_sdk.a -lpthread -lrt 
